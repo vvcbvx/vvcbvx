@@ -1,0 +1,29 @@
+{
+  "id": "j7o8mhlpe",
+  "title": "عبد",
+  "totalScore": 100,
+  "passScore": 50,
+  "timeLimit": 30,
+  "questions": [
+    {
+      "id": "b5u0m2wv2",
+      "text": "كم عمرك",
+      "score": 100,
+      "answers": [
+        {
+          "id": "7l5zm5sch",
+          "text": "40",
+          "isCorrect": true
+        },
+        {
+          "id": "5l4fgk479",
+          "text": "20",
+          "isCorrect": false
+        }
+      ],
+      "explanation": ""
+    }
+  ],
+  "createdAt": "2025-08-05T11:43:18.975Z",
+  "createdBy": "admin"
+}
